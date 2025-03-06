@@ -3,6 +3,7 @@
 https://github.com/user-attachments/assets/780c6222-2d33-47ad-8dc2-4fe92634332d
 
 
+*Colab Notebook* https://colab.research.google.com/drive/1hOZaluubwGw7UNRPgCx9GmnZsoQvg23g?usp=sharing
 
 Welcome to my **Fully Automated YouTube Channel** project! Launched on **March 05, 2025**, this system creates and uploads a new 1-minute video to YouTube every day, completely hands-free. It gathers content from Reddit (default: **AskReddit**), generates narrated videos with Minecraft gameplay backgrounds, optimizes them with SEO, and uploads them automatically. Below, you’ll find an overview, features, and setup instructions!
 
@@ -16,6 +17,7 @@ This project automates video content creation using a pipeline of Python scripts
 2. **`create_videos.py`**: Combines TTS audio with a Minecraft background video, adds ASS subtitles, and produces a 1-minute video (Google Colab compatible).
 3. **`speed_up.py`**: Optionally adjusts video speed (e.g., 1.1x) for a snappier feel.
 4. **SEO & Upload Script**: Uses OpenAI’s GPT-4o-mini to generate SEO-optimized titles, keywords, and descriptions, then uploads the video to YouTube via a custom script.
+5. **Drive Upload Code For Youtube API**: Final Code to upload the video
 
 The result? A **100% automated** YouTube channel posting daily videos with no manual effort—once you set up the automation!
 

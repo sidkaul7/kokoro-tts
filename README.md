@@ -49,10 +49,10 @@ Run it manually, or set up your own system to automate it daily (see "Get Starte
 
 ## 📚 Resources
 
-- **Google Colab Notebook**: [Coming Soon](#) – Run the full pipeline in the cloud.
+- **Google Colab Notebook**: https://colab.research.google.com/drive/1hOZaluubwGw7UNRPgCx9GmnZsoQvg23g?usp=sharing
 - **GitHub Code**: All scripts are here in this repository.
-- **Udemy Course**: Learn more in my [Udemy course](#) (link TBD).
-- **YouTube Channel**: See sample videos on my [YouTube channel](#) (link TBD).
+- **Udemy Course**: Learn more in my [Udemy course](#) ([link TBD](https://www.udemy.com/course/chatgpt-apps-creating-ai-apps-with-openai/?referralCode=E513406D846DF477E7E8)).
+- **YouTube Channel**: See sample videos on my [YouTube channel](#) ([link TBD](https://www.youtube.com/@murataavcu)).
 
 ---
 

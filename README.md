@@ -70,8 +70,8 @@ Here’s a sample video created by this project:
 
 ### Prerequisites
 - Python 3.8+
-- Reddit API credentials (`client_id`, `client_secret`, `user_agent`)
-- YouTube API credentials for uploads
+- Reddit API credentials (`client_id`, `client_secret`, `user_agent`) (Create an app here https://www.reddit.com/prefs/apps)
+- YouTube API credentials for uploads (how to get one: https://www.youtube.com/watch?v=aFwZgth790Q&t)
 - OpenAI API key for SEO
 - Minecraft gameplay video (`.mp4`, etc.)
 - Dependencies: `praw`, `gTTS`, `moviepy`, `pysubs2`, `openai`, `ffmpeg`, etc. (see `requirements.txt`)
